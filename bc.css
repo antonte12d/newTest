@@ -1,0 +1,15 @@
+/* 
+	Author: Jag
+	Contact: Ring
+	Description: A basic CSS
+*/
+
+/*Solving boxmodel hack*/
+
+body{
+	background-color: #24a400;
+	width: 100%;
+}
+#container{
+	border: 1px solid #720069;
+}
